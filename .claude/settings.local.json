@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(DATABASE_URL=\"postgres://postgres:postgres@localhost:51214/template1?sslmode=disable\" npx prisma db pull)"
+    ]
+  }
+}
